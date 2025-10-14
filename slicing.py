@@ -7,3 +7,4 @@ print(str[-4:-1])
 
 print(str[:3])
 print(str[3:])
+
